@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kkkumarkanike
 - 👀 I’m interested in Building Front-end applications
 - 🌱 I have 2 years experience as Freelance Javascript Developer and MERN stack enthusiast
-- 💞️ I'm currently working in TCS as Systems Engineer
+- 💞️ I'm currently working in GeekyAnts as Software Engineer 3
 - 📫 How to reach me - kkalyan812@gmail.com
 
 <!---
